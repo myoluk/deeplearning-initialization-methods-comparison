@@ -1,4 +1,4 @@
-# Deep Learning - Initializing parameters comparison (Zero / Random / He)
+# Deep Learning - Initialization Methods Comparison yöntem
 
 ## Dataset
 ![Dataset](/images/dataset.png)
