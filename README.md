@@ -1,4 +1,4 @@
-# Deep Learning - Initialization Methods Comparison yöntem
+# Deep Learning - Initialization Methods Comparison
 
 ## Dataset
 ![Dataset](/images/dataset.png)
