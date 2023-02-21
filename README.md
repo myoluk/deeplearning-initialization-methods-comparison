@@ -1,6 +1,6 @@
 # Deep Learning - Initialization Methods Comparison
 
-## Methods
+## Initializations Methods Content
 - ![Zero Initialization](#zero-initialization)
 - ![Random Initialization](#random-initialization)
 - ![He Initialization](#he-initialization)
