@@ -8,7 +8,7 @@
 ## Dataset
 ![Dataset](/images/dataset.png)
 
-## Initializations
+## Initializations Methods
 
 ### Zero Initialization
 
