@@ -14,8 +14,8 @@
 
 ### Zero Initialization
 
-- train set accuracy: 0.5
-- test set accuracy: 0.5
+- [x] train set accuracy: 0.5
+- [x] test set accuracy: 0.5
 
 | Performance | Model |
 | ----------- | ----- |
@@ -24,8 +24,8 @@
 
 ### Random Initialization
 
-- train set accuracy: 0.83
-- test set accuracy: 0.86
+- [x] train set accuracy: 0.83
+- [x] test set accuracy: 0.86
 
 | Performance | Model |
 | ----------- | ----- |
@@ -34,8 +34,8 @@
 
 ### He Initialization
 
-- train set accuracy: 0.99
-- test set accuracy: 0.96
+- [x] train set accuracy: 0.99
+- [x] test set accuracy: 0.96
 
 | Performance | Model |
 | ----------- | ----- |
