@@ -2,7 +2,7 @@
 
 ## :scroll: Contents
 - [Dataset](#dart-dataset)
-- [Initializations Methods](##initializations-methods)
+- [Initializations Methods](#initializations-methods)
   - [Zero Initialization](#zero-initialization)
   - [Random Initialization](#random-initialization)
   - [He Initialization](#he-initialization)
