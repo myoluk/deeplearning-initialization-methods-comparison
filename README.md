@@ -1,6 +1,6 @@
 # Deep Learning - Initialization Methods Comparison
 
-## Contents
+## :scroll: Contents
 - ![Dataset](#dataset)
 - ![Initializations Methods](##initializations-methods)
   - ![Zero Initialization](#zero-initialization)
