@@ -4,7 +4,7 @@
 - [Dataset](#dart-dataset)
 - [Initializations Methods](#link-initializations-methods)
   - [Zero Initialization](#gem-zero-initialization)
-  - [Random Initialization](#random-initialization)
+  - [Random Initialization](#gem-random-initialization)
   - [He Initialization](#he-initialization)
 
 ## :dart: Dataset
