@@ -10,7 +10,7 @@
 ## :dart: Dataset
 ![Dataset](/images/dataset.png)
 
-## Initializations Methods
+## :link: Initializations Methods
 
 ### Zero Initialization
 
