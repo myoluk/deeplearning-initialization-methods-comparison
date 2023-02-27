@@ -5,7 +5,7 @@
 - [Initializations Methods](#link-initializations-methods)
   - [Zero Initialization](#gem-zero-initialization)
   - [Random Initialization](#gem-random-initialization)
-  - [He Initialization](#he-initialization)
+  - [He Initialization](#gem-he-initialization)
 
 ## :dart: Dataset
 ![Dataset](/images/dataset.png)
